@@ -1,5 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Brian
+![](https://komarev.com/ghpvc/?username=Brian-333&style=for-the-badge&color=1c96c5)  
+<br>
 
+## 💬 About me
+- 🏫 Honors Computing Science Student with AI option at the University of Alberta
+- 📷 I love photography, ask me about it!
+- 🌐 I am currently working on building my portfolio website
+<br>
+
+## 🔗 Connect with me
+<a target="_blank" href="https://www.linkedin.com/in/brianlin333/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<br>
+
+<!--
+Resources Used:
+https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
+
+-->
 <!--
 **Brian-333/Brian-333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
