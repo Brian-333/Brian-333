@@ -9,12 +9,16 @@
 <br>
 
 ## 🔗 Connect with me
-<a target="_blank" href="https://www.linkedin.com/in/brianlin333/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+[![LinkedIn][linkedin-shield]][linkedin-url]
 <br>
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/brianlin333/
 
 <!--
 Resources Used:
 https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
+https://github.com/othneildrew/Best-README-Template/blob/main/README.md?plain=1
 
 -->
 <!--
